@@ -6,11 +6,12 @@ import { AppComponent } from './app.component';
 import { OktaAuthModule, OKTA_CONFIG } from '@okta/okta-angular';
 import { OktaAuth } from '@okta/okta-auth-js';
 import { ProfileComponent } from './profile/profile.component';
+import { environment } from 'src/environments/environment';
 
 
 const oktaAuth = new OktaAuth({
-  issuer: 'https://dev-9374136.okta.com/oauth2/default',
-  clientId: '0oa7q1li0abG6jJKm5d7',
+  issuer: environment.issuer,
+  clientId: environment.clientId,
   redirectUri: window.location.origin + '/login/callback'
 });
 
