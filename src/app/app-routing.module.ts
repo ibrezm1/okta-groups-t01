@@ -1,7 +1,12 @@
+import { OktaCallbackComponent } from '@okta/okta-angular';
 import { NgModule } from '@angular/core';
 import { RouterModule, Routes } from '@angular/router';
+import { ProfileComponent } from './profile/profile.component';
 
-const routes: Routes = [];
+const routes: Routes = [
+  { path: 'login/callback', component: OktaCallbackComponent },
+  { path: 'profile', component: ProfileComponent },
+];
 
 @NgModule({
   imports: [RouterModule.forRoot(routes)],

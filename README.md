@@ -25,3 +25,11 @@ Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To u
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+
+## Location for Dev 
+https://developer.okta.com/docs/guides/sign-into-spa-redirect/angular/main/
+https://github.com/okta-samples/okta-angular-quickstart/blob/main/src/app/app.component.ts
+https://developer.okta.com/docs/reference/api/groups/
+https://developer.okta.com/docs/guides/customize-tokens-groups-claim/main/#add-a-groups-claim-for-the-org-authorization-server
+https://devforum.okta.com/t/problem-when-find-user-groups-in-angular/9253/11
+https://support.okta.com/help/s/article/Can-we-retrieve-both-Active-Directory-and-Okta-groups-in-OpenID-Connect-claims?language=en_US
