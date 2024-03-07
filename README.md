@@ -33,3 +33,6 @@ https://developer.okta.com/docs/reference/api/groups/
 https://developer.okta.com/docs/guides/customize-tokens-groups-claim/main/#add-a-groups-claim-for-the-org-authorization-server
 https://devforum.okta.com/t/problem-when-find-user-groups-in-angular/9253/11
 https://support.okta.com/help/s/article/Can-we-retrieve-both-Active-Directory-and-Okta-groups-in-OpenID-Connect-claims?language=en_US
+
+Deploy to Firebase
+https://www.youtube.com/watch?v=UNCggEPZQ0c
