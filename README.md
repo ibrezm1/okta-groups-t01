@@ -39,3 +39,6 @@ https://www.youtube.com/watch?v=UNCggEPZQ0c
 
 Deployed app
 https://okta-groups-t01.web.app/
+
+Issues:
+https://answers.netlify.com/t/support-guide-i-ve-deployed-my-site-but-i-still-see-page-not-found/125
