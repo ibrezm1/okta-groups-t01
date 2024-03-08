@@ -42,3 +42,9 @@ https://okta-groups-t01.web.app/
 
 Issues:
 https://answers.netlify.com/t/support-guide-i-ve-deployed-my-site-but-i-still-see-page-not-found/125
+
+/angular-proj/okta-01/
+npx ng build  --base-href /angular-proj/okta-01/ --configuration prod
+
+https://medium.com/weekly-webtips/how-to-deploy-angular-app-to-netlify-simple-and-clean-48faba1f314
+https://developer.okta.com/blog/2020/06/17/angular-docker-spring-boot
